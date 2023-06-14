@@ -5673,6 +5673,7 @@ namespace fheroes2
         case SupportedLanguage::Portuguese:
         case SupportedLanguage::Spanish:
         case SupportedLanguage::Swedish:
+        case SupportedLanguage::Finnish:
             generateCP1252Alphabet( icnVsSprite );
             break;
         case SupportedLanguage::French:
@@ -5717,6 +5718,7 @@ namespace fheroes2
         case SupportedLanguage::Romanian:
         case SupportedLanguage::Spanish:
         case SupportedLanguage::Swedish:
+        case SupportedLanguage::Finnish:
         case SupportedLanguage::Turkish:
         case SupportedLanguage::Ukrainian:
         case SupportedLanguage::Dutch:
@@ -5771,6 +5773,7 @@ namespace fheroes2
         case SupportedLanguage::Portuguese:
         case SupportedLanguage::Spanish:
         case SupportedLanguage::Swedish:
+        case SupportedLanguage::Finnish:
             generateCP1252GoodButtonFont( icnVsSprite[ICN::BUTTON_GOOD_FONT_RELEASED] );
             break;
         case SupportedLanguage::Turkish:

@@ -66,7 +66,8 @@ namespace
             { "hu", fheroes2::SupportedLanguage::Hungarian },  { "hungarian", fheroes2::SupportedLanguage::Hungarian },
             { "dk", fheroes2::SupportedLanguage::Danish },     { "danish", fheroes2::SupportedLanguage::Danish },
             { "sk", fheroes2::SupportedLanguage::Slovak },     { "slovak", fheroes2::SupportedLanguage::Slovak },
-            { "vi", fheroes2::SupportedLanguage::Vietnamese }, { "vietnamese", fheroes2::SupportedLanguage::Vietnamese } };
+            { "vi", fheroes2::SupportedLanguage::Vietnamese }, { "vietnamese", fheroes2::SupportedLanguage::Vietnamese },
+            { "fi", fheroes2::SupportedLanguage::Finnish }, {"finnish", fheroes2::SupportedLanguage::Finnish} };
 }
 
 namespace fheroes2
@@ -115,7 +116,7 @@ namespace fheroes2
                                                              SupportedLanguage::Romanian,   SupportedLanguage::Spanish,   SupportedLanguage::Portuguese,
                                                              SupportedLanguage::Swedish,    SupportedLanguage::Turkish,   SupportedLanguage::Dutch,
                                                              SupportedLanguage::Hungarian,  SupportedLanguage::Czech,     SupportedLanguage::Danish,
-                                                             SupportedLanguage::Slovak,     SupportedLanguage::Vietnamese };
+                                                             SupportedLanguage::Slovak,     SupportedLanguage::Vietnamese, SupportedLanguage::Finnish };
 
         for ( const SupportedLanguage language : possibleLanguages ) {
             if ( language != resourceLanguage && isAlphabetSupported( language ) ) {
@@ -187,6 +188,8 @@ namespace fheroes2
             return _( "Slovak" );
         case SupportedLanguage::Vietnamese:
             return _( "Vietnamese" );
+        case SupportedLanguage::Finnish:
+            return _( "Finnish" );
         default:
             // Did you add a new language? Please add the code to handle it.
             assert( 0 );
@@ -239,6 +242,8 @@ namespace fheroes2
             return "sk";
         case SupportedLanguage::Vietnamese:
             return "vi";
+        case SupportedLanguage::Finnish:
+            return "fi";
         default:
             // Did you add a new language? Please add the code to handle it.
             assert( 0 );
