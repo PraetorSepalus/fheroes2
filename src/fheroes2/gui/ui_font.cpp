@@ -2340,7 +2340,7 @@ namespace
             updateSmallFontLetterShadow( font[255 - 32] );
         }
     }
-    // CP1252 supports German, Italian, Spanish, Norwegian, Swedish and Danish (and French but OG has custom encoding)
+    // CP1252 supports German, Italian, Spanish, Norwegian, Swedish, Finnish and Danish (and French but OG has custom encoding)
     void generateCP1252Alphabet( std::vector<std::vector<fheroes2::Sprite>> & icnVsSprite )
     {
         // Resize fonts.

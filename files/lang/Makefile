@@ -38,8 +38,8 @@ cs.mo hu.mo pl.mo sk.mo: %.mo: %.po
 be.mo bg.mo ru.mo uk.mo: %.mo: %.po
 	$(call MSGFMT,CP1251)
 
-# German, Danish, French, Italian, Dutch, Norwegian, Portuguese, Spanish and Swedish translations use CP1252
-de.mo dk.mo es.mo fr.mo it.mo nb.mo pt.mo sv.mo nl.mo: %.mo: %.po
+# German, Danish, French, Italian, Dutch, Norwegian, Portuguese, Spanish, Finnish and Swedish translations use CP1252
+de.mo dk.mo es.mo fi.mo fr.mo it.mo nb.mo pt.mo sv.mo nl.mo: %.mo: %.po
 	$(call MSGFMT,CP1252)
 
 # Turkish uses CP1254

@@ -67,7 +67,8 @@ namespace
             { "dk", fheroes2::SupportedLanguage::Danish },     { "danish", fheroes2::SupportedLanguage::Danish },
             { "sk", fheroes2::SupportedLanguage::Slovak },     { "slovak", fheroes2::SupportedLanguage::Slovak },
             { "vi", fheroes2::SupportedLanguage::Vietnamese }, { "vietnamese", fheroes2::SupportedLanguage::Vietnamese },
-            { "fi", fheroes2::SupportedLanguage::Finnish }, {"finnish", fheroes2::SupportedLanguage::Finnish} };
+            { "fi", fheroes2::SupportedLanguage::Finnish },    { "finnish", fheroes2::SupportedLanguage::Finnish}
+        };
 }
 
 namespace fheroes2
