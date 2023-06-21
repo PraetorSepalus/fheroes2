@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: fheroes2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-03 06:46+0000\n"
-"PO-Revision-Date: 2023-06-19 23:33+0300\n"
+"PO-Revision-Date: 2023-06-21 10:43+0300\n"
 "Last-Translator: fheroes2 team <fhomm2@gmail.com>\n"
 "Language-Team: Finnish <>\n"
 "Language: fi\n"
@@ -188,7 +188,7 @@ msgid "MAX"
 msgstr "MAX"
 
 msgid "OKAY"
-msgstr "OKEI"
+msgstr "OK"
 
 msgid "Warrior"
 msgstr "Soturi"
@@ -322,36 +322,38 @@ msgid "Move the %{name} "
 msgstr "Liikuta %{name} "
 
 msgid "Move or right click to redistribute %{name}"
-msgstr ""
+msgstr "Liikuta tai klikkaa hiiren kakkospainikkeella jakaaksesi %{name}"
 
 msgid "Combine %{name} armies"
-msgstr ""
+msgstr "Yhdist‰ %{name}armeijat"
 
+# Needs genetive plural to translate correctly
+#, fuzzy
 msgid "Exchange %{name2} with %{name}"
-msgstr ""
+msgstr "Vaihda %{name2} ja %{name} "
 
 msgid "Select %{name}"
-msgstr ""
+msgstr "Valitse %{name}"
 
 msgid "Cannot move last troop"
-msgstr ""
+msgstr "Viimeist‰ joukkoa ei voi siirt‰‰"
 
 msgid "Move the %{name}"
-msgstr ""
+msgstr "Siirr‰ %{name}"
 
 msgid "Set Count"
-msgstr ""
+msgstr "Valitse M‰‰r‰"
 
 msgid "%{name} destroys half the enemy troops!"
 msgid_plural "%{name} destroy half the enemy troops!"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%{name} tuhoaa puolet vihollisen joukoista!"
+msgstr[1] "Yksikkˆ %{name} tuhoaa puolet vihollisen joukoista!"
 
 msgid "%{name} has turned off the auto battle"
-msgstr ""
+msgstr "%{name} on ottanut automaattisen taistelun pois p‰‰lt‰"
 
 msgid "%{name} has turned on the auto battle"
-msgstr ""
+msgstr "%{name} on laittanut automaattisen taistelun p‰‰lle"
 
 msgid "Spell failed!"
 msgstr "Loitsu ep‰onnistui!"
@@ -371,60 +373,64 @@ msgid "You may only summon one type of elemental per combat."
 msgstr "Voit kutsua vain yhdenlaisen elementaalin per taistelu."
 
 msgid "There is no open space adjacent to your hero to summon an Elemental to."
-msgstr ""
+msgstr "Sankarin vieress‰ ei ole tilaa kutsua elemantaalia."
 
+# Count variable doesn't conjugate well
+#, fuzzy
 msgid ""
 "The Moat reduces by -%{count} the defense skill of any unit and slows to "
 "half movement rate."
 msgstr ""
+"Vallihauta v‰hent‰‰ yksikˆn puolustustaitoa %{count}:lla ja hidastaa "
+"liikkumista puolella."
 
 msgid "Speed: %{speed}"
-msgstr ""
+msgstr "Nopeus: %{speed}"
 
 msgid "Speed"
-msgstr ""
+msgstr "Nopeus"
 
 msgid "Army Order"
-msgstr ""
+msgstr "Armeijaj‰rjestys"
 
 msgid "Off"
-msgstr ""
+msgstr "Pois"
 
 msgid "On"
-msgstr ""
+msgstr "P‰‰lle"
 
 msgid "Auto Spell Casting"
-msgstr ""
+msgstr "Automaattinen Loitsinta"
 
 msgid "Grid"
-msgstr ""
+msgstr "Ruudukko"
 
 msgid "Shadow Movement"
-msgstr ""
+msgstr "Varjoliike"
 
 msgid "Shadow Cursor"
-msgstr ""
+msgstr "Varjokursori"
 
 msgid "Audio"
-msgstr ""
+msgstr "ƒ‰net"
 
 msgid "Settings"
-msgstr ""
+msgstr "Asetukset"
 
 msgid "Configure"
-msgstr ""
+msgstr "Konfiguroi"
 
 msgid "Hot Keys"
-msgstr ""
+msgstr "PIkan‰pp‰imet"
 
 msgid "Damage Info"
-msgstr ""
+msgstr "Vahinkotiedot"
 
 msgid "Set the speed of combat actions and animations."
-msgstr ""
+msgstr "Aseta taistelun toiminnan ja animaation nopeus."
 
 msgid "Toggle to display army order during the battle."
-msgstr ""
+msgstr "N‰yt‰ armeijaj‰rjestys taistelun aikana."
 
 msgid ""
 "Toggle whether or not the computer will cast spells for you when auto combat "
@@ -456,10 +462,10 @@ msgid "Toggle to display damage information during the battle."
 msgstr ""
 
 msgid "Exit this menu."
-msgstr ""
+msgstr "Poistu valikosta."
 
 msgid "Okay"
-msgstr ""
+msgstr "OK"
 
 msgid "The enemy has surrendered!"
 msgstr "Vihollinen on antautunut!"
