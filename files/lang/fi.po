@@ -8,23 +8,23 @@ msgstr ""
 "Project-Id-Version: fheroes2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-03 06:46+0000\n"
-"PO-Revision-Date: 2023-06-21 12:30+0300\n"
+"PO-Revision-Date: 2023-06-21 15:20+0300\n"
 "Last-Translator: fheroes2 team <fhomm2@gmail.com>\n"
 "Language-Team: Finnish <>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CP1252\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Launchpad-Export-Date: 2013-10-09 02:01+0000\n"
 "X-Generator: Poedit 3.0.1\n"
-"X-Poedit-SourceCharset: CP1252\n"
+"X-Poedit-SourceCharset: UTF-8\n"
 
 msgid ""
 "BATTLE\n"
 "ONLY"
 msgstr ""
-"PELKKƒ\n"
+"PELKK√Ñ\n"
 "TAISTELU"
 
 msgid ""
@@ -58,19 +58,19 @@ msgid "CANCEL"
 msgstr "PERUUTA"
 
 msgid "ACCEPT"
-msgstr "HYVƒKSY"
+msgstr "HYV√ÑKSY"
 
 msgid "DECLINE"
-msgstr "KIELTƒYDY"
+msgstr "KIELT√ÑYDY"
 
 msgid "LEARN"
 msgstr "OPI"
 
 msgid "TRADE"
-msgstr "KƒY KAUPPAA"
+msgstr "K√ÑY KAUPPAA"
 
 msgid "YES"
-msgstr "KYLLƒ"
+msgstr "KYLL√Ñ"
 
 msgid "NO"
 msgstr "EI"
@@ -79,10 +79,10 @@ msgid "EXIT"
 msgstr "POISTU"
 
 msgid "DISMISS"
-msgstr "HƒƒDƒ"
+msgstr "H√Ñ√ÑD√Ñ"
 
 msgid "UPGRADE"
-msgstr "YLENNƒ"
+msgstr "YLENN√Ñ"
 
 msgid "RESTART"
 msgstr "UUDESTAAN"
@@ -94,7 +94,7 @@ msgid ""
 "TOWNS/\n"
 "CASTLES"
 msgstr ""
-"KYLƒT/\n"
+"KYL√ÑT/\n"
 "LINNAT"
 
 msgid "S"
@@ -144,18 +144,18 @@ msgid ""
 "ORIGINAL\n"
 "CAMPAIGN"
 msgstr ""
-"ALKUPERƒINEN\n"
+"ALKUPER√ÑINEN\n"
 "KAMPPANJA"
 
 msgid ""
 "EXPANSION\n"
 "CAMPAIGN"
 msgstr ""
-"LISƒOSA-\n"
+"LIS√ÑOSA-\n"
 "KAMPPANJA"
 
 msgid "HOT SEAT"
-msgstr "LƒHIMONINPELI"
+msgstr "L√ÑHIMONINPELI"
 
 msgid "2 PLAYERS"
 msgstr "2 PELAAJAA"
@@ -200,7 +200,7 @@ msgid "Explorer"
 msgstr "Tutkimusmatkailija"
 
 msgid "None"
-msgstr "Ei mit‰‰n"
+msgstr "Ei mit√§√§n"
 
 msgid "Warning"
 msgstr "Varoitus"
@@ -209,7 +209,7 @@ msgid ""
 "Do you want to regain control from AI? The effect will take place only on "
 "the next turn."
 msgstr ""
-"Haluatko ottaa ohjat takaisin teko‰lylt‰? Vaikutus tulee voimaan vasta ensi "
+"Haluatko ottaa ohjat takaisin teko√§lylt√§? Vaikutus tulee voimaan vasta ensi "
 "vuorolla."
 
 msgid ""
@@ -313,7 +313,7 @@ msgid "Troops of %{count} alignments -%{penalty}"
 msgstr "Joukkoja %{count} suuntauksesta -%{penalty}"
 
 msgid "Some undead in group -1"
-msgstr "Ep‰kuolleita ryhm‰ss‰ -1"
+msgstr "Ep√§kuolleita ryhm√§ss√§ -1"
 
 msgid "View %{name}"
 msgstr "Tarkastele %{name}"
@@ -325,7 +325,7 @@ msgid "Move or right click to redistribute %{name}"
 msgstr "Liikuta tai klikkaa hiiren kakkospainikkeella jakaaksesi %{name}"
 
 msgid "Combine %{name} armies"
-msgstr "Yhdist‰ %{name}armeijat"
+msgstr "Yhdist√§ %{name}armeijat"
 
 # Needs genetive plural to translate correctly
 #, fuzzy
@@ -336,27 +336,27 @@ msgid "Select %{name}"
 msgstr "Valitse %{name}"
 
 msgid "Cannot move last troop"
-msgstr "Viimeist‰ joukkoa ei voi siirt‰‰"
+msgstr "Viimeist√§ joukkoa ei voi siirt√§√§"
 
 msgid "Move the %{name}"
-msgstr "Siirr‰ %{name}"
+msgstr "Siirr√§ %{name}"
 
 msgid "Set Count"
-msgstr "Valitse M‰‰r‰"
+msgstr "Valitse M√§√§r√§"
 
 msgid "%{name} destroys half the enemy troops!"
 msgid_plural "%{name} destroy half the enemy troops!"
 msgstr[0] "%{name} tuhoaa puolet vihollisen joukoista!"
-msgstr[1] "Yksikkˆ %{name} tuhoaa puolet vihollisen joukoista!"
+msgstr[1] "Yksikk√∂ %{name} tuhoaa puolet vihollisen joukoista!"
 
 msgid "%{name} has turned off the auto battle"
-msgstr "%{name} on ottanut automaattisen taistelun pois p‰‰lt‰"
+msgstr "%{name} on ottanut automaattisen taistelun pois p√§√§lt√§"
 
 msgid "%{name} has turned on the auto battle"
-msgstr "%{name} on laittanut automaattisen taistelun p‰‰lle"
+msgstr "%{name} on laittanut automaattisen taistelun p√§√§lle"
 
 msgid "Spell failed!"
-msgstr "Loitsu ep‰onnistui!"
+msgstr "Loitsu ep√§onnistui!"
 
 msgid ""
 "The Sphere of Negation artifact is in effect for this battle, disabling all "
@@ -364,23 +364,23 @@ msgid ""
 msgstr ""
 
 msgid "You have already cast a spell this round."
-msgstr "Olet jo loitsinut t‰ll‰ kierroksella."
+msgstr "Olet jo loitsinut t√§ll√§ kierroksella."
 
 msgid "That spell will affect no one!"
-msgstr "Tuo loitsu ei vaikuta kehenk‰‰n!"
+msgstr "Tuo loitsu ei vaikuta kehenk√§√§n!"
 
 msgid "You may only summon one type of elemental per combat."
 msgstr "Voit kutsua vain yhdenlaisen elementaalin per taistelu."
 
 msgid "There is no open space adjacent to your hero to summon an Elemental to."
-msgstr "Sankarin vieress‰ ei ole tilaa kutsua elemantaalia."
+msgstr "Sankarin vieress√§ ei ole tilaa kutsua elemantaalia."
 
 # Count variable doesn't conjugate well. Code return int 3 in any case, so why is this a variable?
 msgid ""
 "The Moat reduces by -%{count} the defense skill of any unit and slows to "
 "half movement rate."
 msgstr ""
-"Vallihauta v‰hent‰‰ yksikˆn puolustustaitoa %{count}:lla ja hidastaa "
+"Vallihauta v√§hent√§√§ yksik√∂n puolustustaitoa %{count}:lla ja hidastaa "
 "liikkumista puolella."
 
 msgid "Speed: %{speed}"
@@ -390,13 +390,13 @@ msgid "Speed"
 msgstr "Nopeus"
 
 msgid "Army Order"
-msgstr "Armeijaj‰rjestys"
+msgstr "Armeijaj√§rjestys"
 
 msgid "Off"
 msgstr "Pois"
 
 msgid "On"
-msgstr "P‰‰lle"
+msgstr "P√§√§lle"
 
 msgid "Auto Spell Casting"
 msgstr "Automaattinen Loitsinta"
@@ -411,7 +411,7 @@ msgid "Shadow Cursor"
 msgstr "Varjokursori"
 
 msgid "Audio"
-msgstr "ƒ‰net"
+msgstr "√Ñ√§net"
 
 msgid "Settings"
 msgstr "Asetukset"
@@ -420,7 +420,7 @@ msgid "Configure"
 msgstr "Konfiguroi"
 
 msgid "Hot Keys"
-msgstr "PIkan‰pp‰imet"
+msgstr "PIkan√§pp√§imet"
 
 msgid "Damage Info"
 msgstr "Vahinkotiedot"
@@ -429,45 +429,45 @@ msgid "Set the speed of combat actions and animations."
 msgstr "Aseta taistelun toiminnan ja animaation nopeus."
 
 msgid "Toggle to display army order during the battle."
-msgstr "N‰yt‰ armeijaj‰rjestys taistelun aikana."
+msgstr "N√§yt√§ armeijaj√§rjestys taistelun aikana."
 
 msgid ""
 "Toggle whether or not the computer will cast spells for you when auto combat "
 "is on. (Note: This does not affect spell casting for computer players in any "
 "way, nor does it affect quick combat.)"
 msgstr ""
-"Laita loitsiiko tietokone puolestasi, kun automaattinen taistelu on p‰‰ll‰. "
-"(Huom. T‰m‰ ei vaikuta tietokonepelaajien loitsimiseen mitenk‰‰n, eik‰ se "
+"Laita loitsiiko tietokone puolestasi, kun automaattinen taistelu on p√§√§ll√§. "
+"(Huom. T√§m√§ ei vaikuta tietokonepelaajien loitsimiseen mitenk√§√§n, eik√§ se "
 "vaikuta pikataisteluun.)"
 
 msgid ""
 "Toggle the hex grid on or off. The hex grid always underlies movement, even "
 "if turned off. This switch only determines if the grid is visible."
 msgstr ""
-"Laita heksaruudukko p‰‰lle tai pois. Heksaruudukko on aina liikkumisen "
-"perustana, vaikka olisi pois p‰‰lt‰. T‰m‰ m‰‰ritt‰‰ vain onko heksaruudukko "
-"n‰kyviss‰."
+"Laita heksaruudukko p√§√§lle tai pois. Heksaruudukko on aina liikkumisen "
+"perustana, vaikka olisi pois p√§√§lt√§. T√§m√§ m√§√§ritt√§√§ vain onko heksaruudukko "
+"n√§kyviss√§."
 
 msgid ""
 "Toggle on or off shadows showing where your creatures can move and attack."
 msgstr ""
-"Laita p‰‰lle tai pois varjot, jotka n‰ytt‰v‰t minne olennot voivat liikkua "
-"ja hyˆk‰t‰."
+"Laita p√§√§lle tai pois varjot, jotka n√§ytt√§v√§t minne olennot voivat liikkua "
+"ja hy√∂k√§t√§."
 
 msgid ""
 "Toggle on or off a shadow showing the current hex location of the mouse "
 "cursor."
 msgstr ""
-"Laita p‰‰lle tai pois varjo, joka n‰ytt‰‰ hiiren kursorin paikan heksoissa."
+"Laita p√§√§lle tai pois varjo, joka n√§ytt√§√§ hiiren kursorin paikan heksoissa."
 
 msgid "Change the audio settings of the game."
-msgstr "Muuta pelin ‰‰niasetuksia."
+msgstr "Muuta pelin √§√§niasetuksia."
 
 msgid "Check and configure all the hot keys present in the game."
-msgstr "Katso ja konfiguroi kaikkia pelin pikan‰pp‰imi‰."
+msgstr "Katso ja konfiguroi kaikkia pelin pikan√§pp√§imi√§."
 
 msgid "Toggle to display damage information during the battle."
-msgstr "N‰yt‰ vahinkotiedot taistelun aikana."
+msgstr "N√§yt√§ vahinkotiedot taistelun aikana."
 
 msgid "Exit this menu."
 msgstr "Poistu valikosta."
@@ -491,29 +491,29 @@ msgid "The cowardly %{name} flees from battle."
 msgstr "Pelkuri %{name} pakenee taistelusta."
 
 msgid "%{name} surrenders to the enemy, and departs in shame."
-msgstr "%{name} antautuu viholliselle ja poistuu h‰pe‰llisesti."
+msgstr "%{name} antautuu viholliselle ja poistuu h√§pe√§llisesti."
 
 msgid "Your force suffer a bitter defeat, and %{name} abandons your cause."
-msgstr "Joukkosi k‰rsiv‰t karvaan tappion ja %{name} hylk‰‰ aatteesi."
+msgstr "Joukkosi k√§rsiv√§t karvaan tappion ja %{name} hylk√§√§ aatteesi."
 
 msgid "Your force suffer a bitter defeat."
-msgstr "Joukkosi k‰rsiv‰t karvaan tappion."
+msgstr "Joukkosi k√§rsiv√§t karvaan tappion."
 
 msgid "Battlefield Casualties"
-msgstr "Taistelukent‰n Miestappiot"
+msgstr "Taistelukent√§n Miestappiot"
 
 msgid "Attacker"
-msgstr "Hyˆkk‰‰j‰"
+msgstr "Hy√∂kk√§√§j√§"
 
 msgid "Defender"
 msgstr "Puolustaja"
 
 msgid "As you reach for the %{name}, it mysteriously disappears."
-msgstr "Kun kurottelet artefaktia %{name}, se katoaa salaper‰isesti."
+msgstr "Kun kurottelet artefaktia %{name}, se katoaa salaper√§isesti."
 
 msgid "As your enemy reaches for the %{name}, it mysteriously disappears."
 msgstr ""
-"Kun vihollisesi kurottelee artefaktia %{name}, se katoaa salaper‰isesti."
+"Kun vihollisesi kurottelee artefaktia %{name}, se katoaa salaper√§isesti."
 
 msgid "You have captured an enemy artifact!"
 msgstr "Olet kaapannut vihollisen artefaktin!"
@@ -526,7 +526,7 @@ msgid ""
 "Practicing the dark arts of necromancy, you are able to raise %{count} of "
 "the enemy's dead to return under your service as %{monster}."
 msgstr ""
-"Harjoittaen nekromantian pimeit‰ taitoja, onnistut nostamaan %{count} "
+"Harjoittaen nekromantian pimeit√§ taitoja, onnistut nostamaan %{count} "
 "luurankoa vihollisen kuolleista palvelemaan alaisuudessasi."
 
 msgid "%{name} the %{race}"
@@ -536,7 +536,7 @@ msgid "Captain of %{name}"
 msgstr "Kapteeni, %{race}"
 
 msgid "Attack"
-msgstr "Hyˆkk‰ys"
+msgstr "Hy√∂kk√§ys"
 
 msgid "Defense"
 msgstr "Puolustus"
@@ -545,7 +545,7 @@ msgid "Spell Power"
 msgstr "Loitsuvoima"
 
 msgid "Knowledge"
-msgstr "Tiet‰mys"
+msgstr "Tiet√§mys"
 
 msgid "Morale"
 msgstr "Taistelutahto"
@@ -560,10 +560,10 @@ msgid "Hero's Options"
 msgstr "Valinnat sankarille"
 
 msgid "Cast Spell"
-msgstr "Heit‰ loitsu"
+msgstr "Heit√§ loitsu"
 
 msgid "Retreat"
-msgstr "Vet‰ydy"
+msgstr "Vet√§ydy"
 
 msgid "Surrender"
 msgstr "Antaudu"
@@ -572,7 +572,7 @@ msgid "Cancel"
 msgstr "Peruuta"
 
 msgid "Hero Screen"
-msgstr "Sankarin‰kym‰"
+msgstr "Sankarin√§kym√§"
 
 msgid "Captain's Options"
 msgstr "Valinnat kapteenille"
@@ -589,18 +589,18 @@ msgid ""
 "for you to recruit again, however, the hero will have only a novice hero's "
 "forces."
 msgstr ""
-"Vet‰ydy sankarillasi, hylk‰en olentosi. Sankarisi voidaan v‰rv‰t‰ uudelleen, "
-"mutta sill‰ on vain aloittelevan sankarin joukot."
+"Vet√§ydy sankarillasi, hylk√§en olentosi. Sankarisi voidaan v√§rv√§t√§ uudelleen, "
+"mutta sill√§ on vain aloittelevan sankarin joukot."
 
 msgid ""
 "Surrendering costs gold. However if you pay the ransom, the hero and all of "
 "his or her surviving creatures will be available to recruit again."
 msgstr ""
 "Antautuminen maksaa kultaa. Kuitenkin jos maksat lunnaat, sankarisi ja "
-"kaikki h‰nen selviytyv‰t olentonsa ovat v‰rv‰tt‰viss‰ uudelleen."
+"kaikki h√§nen selviytyv√§t olentonsa ovat v√§rv√§tt√§viss√§ uudelleen."
 
 msgid "Open Hero Screen to view full information about the hero."
-msgstr "Avaa"
+msgstr "Avaa Sankarin√§kym√§ katsoaksesi sankarin t√§ydet tiedot."
 
 msgid "Return to the battle."
 msgstr "Palaa taisteluun."
@@ -618,27 +618,27 @@ msgid ""
 "\"I will accept your surrender and grant you and your troops safe passage "
 "for the price of %{price} gold.\""
 msgstr ""
-"\"Hyv‰ksyn antautumisesi ja annan sinulle ja joukoillesi turvallisen kulun "
+"\"Hyv√§ksyn antautumisesi ja annan sinulle ja joukoillesi turvallisen kulun "
 "%{name} kullan hintaan.\""
 
 msgid "View %{monster} info"
-msgstr "Katso yksikˆn %{monster} tiedot"
+msgstr "Katso yksik√∂n %{monster} tiedot"
 
-# nominative case "lenn‰t‰ monsterit" or adessive "lenn‰ monstereilla" would be more appropriate.
+# nominative case "lenn√§t√§ monsterit" or adessive "lenn√§ monstereilla" would be more appropriate.
 msgid "Fly %{monster} here"
-msgstr "Lenn‰t‰ %{monster} t‰h‰n"
+msgstr "Lenn√§t√§ %{monster} t√§h√§n"
 
 # nominative case "liikuta monsterit" or adessive "liiku monstereilla" would be more appropriate.
 msgid "Move %{monster} here"
-msgstr "Liikuta %{monster} t‰h‰n"
+msgstr "Liikuta %{monster} t√§h√§n"
 
 msgid "Shoot %{monster}"
 msgstr "Ammu %{monster}"
 
 msgid "(1 shot left)"
 msgid_plural "(%{count} shots left)"
-msgstr[0] "(1 ammus j‰ljell‰)"
-msgstr[1] "(%{count} ammusta j‰ljell‰)"
+msgstr[0] "(1 ammus j√§ljell√§)"
+msgstr[1] "(%{count} ammusta j√§ljell√§)"
 
 msgid "Attack %{monster}"
 msgstr "Iske %{monster}"
@@ -647,13 +647,13 @@ msgid "Turn %{turn}"
 msgstr "Vuoro %{turn}"
 
 msgid "Teleport here"
-msgstr "Telesiirry t‰h‰n"
+msgstr "Telesiirry t√§h√§n"
 
 msgid "Invalid teleport destination"
 msgstr "Ei sopiva telesiirtymisen kohde"
 
 msgid "Cast %{spell} on %{monster}"
-msgstr "Loitsi %{spell} yksikkˆˆn %{monster}"
+msgstr "Loitsi %{spell} yksikk√∂√∂n %{monster}"
 
 msgid "Cast %{spell}"
 msgstr "Loitsi %{spell}"
@@ -7043,34 +7043,34 @@ msgid "Rangers"
 msgstr "Samoojia"
 
 msgid "Pikeman"
-msgstr "Seiv‰smies"
+msgstr "Seiv√§smies"
 
 msgid "Pikemen"
-msgstr "Seiv‰smiehi‰"
+msgstr "Seiv√§smiehi√§"
 
 msgid "Veteran Pikeman"
-msgstr "Veteraani Seiv‰smies"
+msgstr "Veteraani Seiv√§smies"
 
 msgid "Veteran Pikemen"
-msgstr "Veteraani Seiv‰smiehi‰"
+msgstr "Veteraani Seiv√§smiehi√§"
 
 msgid "Swordsman"
 msgstr "MIekkamies"
 
 msgid "Swordsmen"
-msgstr "Miekkamiehi‰"
+msgstr "Miekkamiehi√§"
 
 msgid "Master Swordsman"
 msgstr "Veteraani Miekkamies"
 
 msgid "Master Swordsmen"
-msgstr "Veteraani Miekkamiehi‰"
+msgstr "Veteraani Miekkamiehi√§"
 
 msgid "Cavalries"
 msgstr "Ratsumies"
 
 msgid "Cavalry"
-msgstr "Ratsumiehi‰"
+msgstr "Ratsumiehi√§"
 
 msgid "Champion"
 msgstr "Mestari"
@@ -7085,28 +7085,28 @@ msgid "Paladins"
 msgstr "Temppeliritareja"
 
 msgid "Crusader"
-msgstr "Ristiretkel‰inen"
+msgstr "Ristiretkel√§inen"
 
 msgid "Crusaders"
-msgstr "Ristiretkel‰isi‰"
+msgstr "Ristiretkel√§isi√§"
 
 msgid "Goblin"
 msgstr "Hiisi"
 
 msgid "Goblins"
-msgstr "Hiisi‰"
+msgstr "Hiisi√§"
 
 msgid "Orc"
-msgstr "÷rkki"
+msgstr "√ñrkki"
 
 msgid "Orcs"
-msgstr "÷rkkej‰"
+msgstr "√ñrkkej√§"
 
 msgid "Orc Chief"
-msgstr "÷rkkip‰‰llikkˆ"
+msgstr "√ñrkkip√§√§llikk√∂"
 
 msgid "Orc Chiefs"
-msgstr "÷rkkip‰‰llikˆit‰"
+msgstr "√ñrkkip√§√§llik√∂it√§"
 
 msgid "Wolf"
 msgstr "Susi"
@@ -7115,16 +7115,16 @@ msgid "Wolves"
 msgstr "Susia"
 
 msgid "Ogre"
-msgstr "J‰tti"
+msgstr "J√§tti"
 
 msgid "Ogres"
-msgstr "J‰ttej‰"
+msgstr "J√§ttej√§"
 
 msgid "Ogre Lord"
-msgstr "J‰ttiylimys"
+msgstr "J√§ttiylimys"
 
 msgid "Ogre Lords"
-msgstr "J‰ttiylimyksi‰"
+msgstr "J√§ttiylimyksi√§"
 
 msgid "Troll"
 msgstr "Peikko"
