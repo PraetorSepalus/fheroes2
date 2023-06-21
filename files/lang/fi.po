@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: fheroes2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-03 06:46+0000\n"
-"PO-Revision-Date: 2023-06-21 10:43+0300\n"
+"PO-Revision-Date: 2023-06-21 12:30+0300\n"
 "Last-Translator: fheroes2 team <fhomm2@gmail.com>\n"
 "Language-Team: Finnish <>\n"
 "Language: fi\n"
@@ -375,8 +375,7 @@ msgstr "Voit kutsua vain yhdenlaisen elementaalin per taistelu."
 msgid "There is no open space adjacent to your hero to summon an Elemental to."
 msgstr "Sankarin vieress‰ ei ole tilaa kutsua elemantaalia."
 
-# Count variable doesn't conjugate well
-#, fuzzy
+# Count variable doesn't conjugate well. Code return int 3 in any case, so why is this a variable?
 msgid ""
 "The Moat reduces by -%{count} the defense skill of any unit and slows to "
 "half movement rate."
@@ -403,7 +402,7 @@ msgid "Auto Spell Casting"
 msgstr "Automaattinen Loitsinta"
 
 msgid "Grid"
-msgstr "Ruudukko"
+msgstr "Heksaruudukko"
 
 msgid "Shadow Movement"
 msgstr "Varjoliike"
@@ -437,29 +436,38 @@ msgid ""
 "is on. (Note: This does not affect spell casting for computer players in any "
 "way, nor does it affect quick combat.)"
 msgstr ""
+"Laita loitsiiko tietokone puolestasi, kun automaattinen taistelu on p‰‰ll‰. "
+"(Huom. T‰m‰ ei vaikuta tietokonepelaajien loitsimiseen mitenk‰‰n, eik‰ se "
+"vaikuta pikataisteluun.)"
 
 msgid ""
 "Toggle the hex grid on or off. The hex grid always underlies movement, even "
 "if turned off. This switch only determines if the grid is visible."
 msgstr ""
+"Laita heksaruudukko p‰‰lle tai pois. Heksaruudukko on aina liikkumisen "
+"perustana, vaikka olisi pois p‰‰lt‰. T‰m‰ m‰‰ritt‰‰ vain onko heksaruudukko "
+"n‰kyviss‰."
 
 msgid ""
 "Toggle on or off shadows showing where your creatures can move and attack."
 msgstr ""
+"Laita p‰‰lle tai pois varjot, jotka n‰ytt‰v‰t minne olennot voivat liikkua "
+"ja hyˆk‰t‰."
 
 msgid ""
 "Toggle on or off a shadow showing the current hex location of the mouse "
 "cursor."
 msgstr ""
+"Laita p‰‰lle tai pois varjo, joka n‰ytt‰‰ hiiren kursorin paikan heksoissa."
 
 msgid "Change the audio settings of the game."
-msgstr ""
+msgstr "Muuta pelin ‰‰niasetuksia."
 
 msgid "Check and configure all the hot keys present in the game."
-msgstr ""
+msgstr "Katso ja konfiguroi kaikkia pelin pikan‰pp‰imi‰."
 
 msgid "Toggle to display damage information during the battle."
-msgstr ""
+msgstr "N‰yt‰ vahinkotiedot taistelun aikana."
 
 msgid "Exit this menu."
 msgstr "Poistu valikosta."
@@ -477,51 +485,55 @@ msgid "A glorious victory!"
 msgstr "Loistava voitto!"
 
 msgid "For valor in combat, %{name} receives %{exp} experience."
-msgstr ""
+msgstr "Urhoollisuudesta taistelussa, %{name} saa %{exp} kokemusta."
 
 msgid "The cowardly %{name} flees from battle."
-msgstr ""
+msgstr "Pelkuri %{name} pakenee taistelusta."
 
 msgid "%{name} surrenders to the enemy, and departs in shame."
-msgstr ""
+msgstr "%{name} antautuu viholliselle ja poistuu h‰pe‰llisesti."
 
 msgid "Your force suffer a bitter defeat, and %{name} abandons your cause."
-msgstr ""
+msgstr "Joukkosi k‰rsiv‰t karvaan tappion ja %{name} hylk‰‰ aatteesi."
 
 msgid "Your force suffer a bitter defeat."
-msgstr ""
+msgstr "Joukkosi k‰rsiv‰t karvaan tappion."
 
 msgid "Battlefield Casualties"
-msgstr ""
+msgstr "Taistelukent‰n Miestappiot"
 
 msgid "Attacker"
-msgstr ""
+msgstr "Hyˆkk‰‰j‰"
 
 msgid "Defender"
-msgstr ""
+msgstr "Puolustaja"
 
 msgid "As you reach for the %{name}, it mysteriously disappears."
-msgstr ""
+msgstr "Kun kurottelet artefaktia %{name}, se katoaa salaper‰isesti."
 
 msgid "As your enemy reaches for the %{name}, it mysteriously disappears."
 msgstr ""
+"Kun vihollisesi kurottelee artefaktia %{name}, se katoaa salaper‰isesti."
 
 msgid "You have captured an enemy artifact!"
-msgstr ""
+msgstr "Olet kaapannut vihollisen artefaktin!"
 
 msgid "Necromancy!"
-msgstr ""
+msgstr "Nekromantiaa!"
 
+# Opted to use the singular partitive 'luurankoa', instead of variable for more fluent translation. Needs to be changed If necromancy can raise other types of creatures.
 msgid ""
 "Practicing the dark arts of necromancy, you are able to raise %{count} of "
 "the enemy's dead to return under your service as %{monster}."
 msgstr ""
+"Harjoittaen nekromantian pimeit‰ taitoja, onnistut nostamaan %{count} "
+"luurankoa vihollisen kuolleista palvelemaan alaisuudessasi."
 
 msgid "%{name} the %{race}"
-msgstr ""
+msgstr "%{name}, %{race}"
 
 msgid "Captain of %{name}"
-msgstr ""
+msgstr "Kapteeni, %{race}"
 
 msgid "Attack"
 msgstr "Hyˆkk‰ys"
@@ -545,7 +557,7 @@ msgid "Spell Points"
 msgstr "Loitsupisteet"
 
 msgid "Hero's Options"
-msgstr ""
+msgstr "Valinnat sankarille"
 
 msgid "Cast Spell"
 msgstr "Heit‰ loitsu"
@@ -560,29 +572,35 @@ msgid "Cancel"
 msgstr "Peruuta"
 
 msgid "Hero Screen"
-msgstr ""
+msgstr "Sankarin‰kym‰"
 
 msgid "Captain's Options"
-msgstr ""
+msgstr "Valinnat kapteenille"
 
 msgid ""
 "Cast a magical spell. You may only cast one spell per combat round. The "
 "round is reset when every creature has had a turn."
 msgstr ""
+"Loitsi. Voit loitsia vain kerran taistelukierroksella. Kierros alkaa "
+"alkusta, kun jokainen olento on saanut vuoron."
 
 msgid ""
 "Retreat your hero, abandoning your creatures. Your hero will be available "
 "for you to recruit again, however, the hero will have only a novice hero's "
 "forces."
 msgstr ""
+"Vet‰ydy sankarillasi, hylk‰en olentosi. Sankarisi voidaan v‰rv‰t‰ uudelleen, "
+"mutta sill‰ on vain aloittelevan sankarin joukot."
 
 msgid ""
 "Surrendering costs gold. However if you pay the ransom, the hero and all of "
 "his or her surviving creatures will be available to recruit again."
 msgstr ""
+"Antautuminen maksaa kultaa. Kuitenkin jos maksat lunnaat, sankarisi ja "
+"kaikki h‰nen selviytyv‰t olentonsa ovat v‰rv‰tt‰viss‰ uudelleen."
 
 msgid "Open Hero Screen to view full information about the hero."
-msgstr ""
+msgstr "Avaa"
 
 msgid "Return to the battle."
 msgstr "Palaa taisteluun."
@@ -606,9 +624,11 @@ msgstr ""
 msgid "View %{monster} info"
 msgstr "Katso yksikˆn %{monster} tiedot"
 
+# nominative case "lenn‰t‰ monsterit" or adessive "lenn‰ monstereilla" would be more appropriate.
 msgid "Fly %{monster} here"
 msgstr "Lenn‰t‰ %{monster} t‰h‰n"
 
+# nominative case "liikuta monsterit" or adessive "liiku monstereilla" would be more appropriate.
 msgid "Move %{monster} here"
 msgstr "Liikuta %{monster} t‰h‰n"
 
@@ -642,10 +662,10 @@ msgid "Select spell target"
 msgstr "Valitse loitsun kohde"
 
 msgid "View Ballista info"
-msgstr ""
+msgstr "Katso ballistan tiedot"
 
 msgid "Ballista"
-msgstr ""
+msgstr "Ballista"
 
 msgid "Enable auto combat"
 msgstr ""
