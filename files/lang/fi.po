@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: fheroes2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-03 06:46+0000\n"
-"PO-Revision-Date: 2023-06-21 15:20+0300\n"
+"PO-Revision-Date: 2023-06-22 09:21+0300\n"
 "Last-Translator: fheroes2 team <fhomm2@gmail.com>\n"
 "Language-Team: Finnish <>\n"
 "Language: fi\n"
@@ -7145,304 +7145,304 @@ msgid "Cyclops"
 msgstr "Kyklooppeja"
 
 msgid "Sprite"
-msgstr ""
+msgstr "Keijukainen"
 
 msgid "Sprites"
-msgstr ""
+msgstr "Keijukaisia"
 
 msgid "Dwarf"
-msgstr ""
+msgstr "Kääpiö"
 
 msgid "Dwarves"
-msgstr ""
+msgstr "Kääpiöitä"
 
 msgid "Battle Dwarf"
-msgstr ""
+msgstr "Taistelukääpiö"
 
 msgid "Battle Dwarves"
-msgstr ""
+msgstr "Taistelukääpiöitä"
 
 msgid "Elf"
-msgstr ""
+msgstr "Haltia"
 
 msgid "Elves"
-msgstr ""
+msgstr "Haltioita"
 
 msgid "Grand Elf"
-msgstr ""
+msgstr "Suurhaltia"
 
 msgid "Grand Elves"
-msgstr ""
+msgstr "Suurhaltioita"
 
 msgid "Druid"
-msgstr ""
+msgstr "Druidi"
 
 msgid "Druids"
-msgstr ""
+msgstr "Druideja"
 
 msgid "Greater Druid"
-msgstr ""
+msgstr "Ylidruidi"
 
 msgid "Greater Druids"
-msgstr ""
+msgstr "Ylidruideja"
 
 msgid "Unicorn"
-msgstr ""
+msgstr "Yksisarvinen"
 
 msgid "Unicorns"
-msgstr ""
+msgstr "Yksisarvisia"
 
 msgid "Phoenix"
-msgstr ""
+msgstr "Feeniks-lintu"
 
 msgid "Phoenixes"
-msgstr ""
+msgstr "Feeniks-lintuja"
 
 msgid "Centaur"
-msgstr ""
+msgstr "Kentauri"
 
 msgid "Centaurs"
-msgstr ""
+msgstr "Kentaureja"
 
 msgid "Gargoyle"
-msgstr ""
+msgstr "Gargoili"
 
 msgid "Gargoyles"
-msgstr ""
+msgstr "Gargoileja"
 
 msgid "Griffin"
-msgstr ""
+msgstr "Aarnikotka"
 
 msgid "Griffins"
-msgstr ""
+msgstr "Aarnikotkia"
 
 msgid "Minotaur"
-msgstr ""
+msgstr "Minotauros"
 
 msgid "Minotaurs"
-msgstr ""
+msgstr "Minotaurokset"
 
 msgid "Minotaur King"
-msgstr ""
+msgstr "Minotauros Kuningas"
 
 msgid "Minotaur Kings"
-msgstr ""
+msgstr "Minotauros Kuninkaat"
 
 msgid "Hydra"
-msgstr ""
+msgstr "Hydra"
 
 msgid "Hydras"
-msgstr ""
+msgstr "Hydrat"
 
 msgid "Green Dragon"
-msgstr ""
+msgstr "Vihreä Lohikäärme"
 
 msgid "Green Dragons"
-msgstr ""
+msgstr "Vihreät Lohikäärmeet"
 
 msgid "Red Dragon"
-msgstr ""
+msgstr "Punainen Lohikäärme"
 
 msgid "Red Dragons"
-msgstr ""
+msgstr "Punaiset Lohikäärmeet"
 
 msgid "Black Dragon"
-msgstr ""
+msgstr "Musta Lohikäärme"
 
 msgid "Black Dragons"
-msgstr ""
+msgstr "Mustat Lohikäärmeet"
 
 msgid "Halfling"
-msgstr ""
+msgstr "Puolituinen"
 
 msgid "Halflings"
-msgstr ""
+msgstr "Puolituiset"
 
 msgid "Boar"
-msgstr ""
+msgstr "Villisika"
 
 msgid "Boars"
-msgstr ""
+msgstr "Villisiat"
 
 msgid "Iron Golem"
-msgstr ""
+msgstr "Rautagolem"
 
 msgid "Iron Golems"
-msgstr ""
+msgstr "Rautagolemit"
 
 msgid "Steel Golem"
-msgstr ""
+msgstr "Teräsgolem"
 
 msgid "Steel Golems"
-msgstr ""
+msgstr "Teräsgolemit"
 
 msgid "Roc"
-msgstr ""
+msgstr "Rok-lintu"
 
 msgid "Rocs"
-msgstr ""
+msgstr "Rok-lintuja"
 
 msgid "Mage"
-msgstr ""
+msgstr "Maagi"
 
 msgid "Magi"
-msgstr ""
+msgstr "Maageja"
 
 msgid "Archmage"
-msgstr ""
+msgstr "Arkkimaagi"
 
 msgid "Archmagi"
-msgstr ""
+msgstr "Arkkimaagi"
 
 msgid "Giant"
-msgstr ""
+msgstr "Jättiläinen"
 
 msgid "Giants"
-msgstr ""
+msgstr "Jättiläisiä"
 
 msgid "Titan"
-msgstr ""
+msgstr "Titaani"
 
 msgid "Titans"
-msgstr ""
+msgstr "Titaaneja"
 
 msgid "Skeletons"
-msgstr ""
+msgstr "Luurankoja"
 
 msgid "Zombie"
-msgstr ""
+msgstr "Zombi"
 
 msgid "Zombies"
-msgstr ""
+msgstr "Zombeja"
 
 msgid "Mutant Zombie"
-msgstr ""
+msgstr "Mutanttizombi"
 
 msgid "Mutant Zombies"
-msgstr ""
+msgstr "Mutanttizombeja"
 
 msgid "Mummies"
-msgstr ""
+msgstr "Muumioita"
 
 msgid "Mummy"
-msgstr ""
+msgstr "Muumio"
 
 msgid "Royal Mummies"
-msgstr ""
+msgstr "Kuninkaallinen muumio"
 
 msgid "Royal Mummy"
-msgstr ""
+msgstr "Kuninkaallisia muumioita"
 
 msgid "Vampire"
-msgstr ""
+msgstr "Vampyyri"
 
 msgid "Vampires"
-msgstr ""
+msgstr "Vampyyreja"
 
 msgid "Vampire Lord"
-msgstr ""
+msgstr "Vampyyriylimys"
 
 msgid "Vampire Lords"
-msgstr ""
+msgstr "Vampyyriylimyksiä"
 
 msgid "Lich"
-msgstr ""
+msgstr "Lich"
 
 msgid "Liches"
-msgstr ""
+msgstr "Lichejä"
 
 msgid "Power Lich"
-msgstr ""
+msgstr "Voimalich"
 
 msgid "Power Liches"
-msgstr ""
+msgstr "Voimalichejä"
 
 msgid "Bone Dragon"
-msgstr ""
+msgstr "Luulohikäärme"
 
 msgid "Bone Dragons"
-msgstr ""
+msgstr "Luulohikäärmeitä"
 
 msgid "Rogue"
-msgstr ""
+msgstr "Kelmi"
 
 msgid "Rogues"
-msgstr ""
+msgstr "Kelmejä"
 
 msgid "Nomad"
-msgstr ""
+msgstr "Paimentolainen"
 
 msgid "Nomads"
-msgstr ""
+msgstr "Paimentolaisia"
 
 msgid "Ghost"
-msgstr ""
+msgstr "Aave"
 
 msgid "Ghosts"
-msgstr ""
+msgstr "Aaveita"
 
 msgid "Genie"
-msgstr ""
+msgstr "Henki"
 
 msgid "Genies"
-msgstr ""
+msgstr "Henkiä"
 
 msgid "Medusa"
-msgstr ""
+msgstr "Medusa"
 
 msgid "Medusas"
-msgstr ""
+msgstr "Medusoja"
 
 msgid "Earth Elemental"
-msgstr ""
+msgstr "Maaelementaali"
 
 msgid "Earth Elementals"
-msgstr ""
+msgstr "Maaelementaalija"
 
 msgid "Air Elemental"
-msgstr ""
+msgstr "Ilmaelementaali"
 
 msgid "Air Elementals"
-msgstr ""
+msgstr "Ilmaelementaalija"
 
 msgid "Fire Elemental"
-msgstr ""
+msgstr "Tulielementaali"
 
 msgid "Fire Elementals"
-msgstr ""
+msgstr "Tulielementaalija"
 
 msgid "Water Elemental"
-msgstr ""
+msgstr "Vesielementaali"
 
 msgid "Water Elementals"
-msgstr ""
+msgstr "Vesielementaalija"
 
 msgid "Random Monsters"
-msgstr ""
+msgstr "Sattumanvaraisia Hirviöitä"
 
 msgid "Random Monster 1"
-msgstr ""
+msgstr "Sattumanvarainen Hirviö 1"
 
 msgid "Random Monsters 1"
-msgstr ""
+msgstr "Sattumanvaraisia Hirviöitä 1"
 
 msgid "Random Monster 2"
-msgstr ""
+msgstr "Sattumanvarainen Hirviö 2"
 
 msgid "Random Monsters 2"
-msgstr ""
+msgstr "Sattumanvaraisia Hirviöitä 2"
 
 msgid "Random Monster 3"
-msgstr ""
+msgstr "Sattumanvarainen Hirviö 3"
 
 msgid "Random Monsters 3"
-msgstr ""
+msgstr "Sattumanvaraisia Hirviöitä 3"
 
 msgid "Random Monster 4"
-msgstr ""
+msgstr "Sattumanvarainen Hirviö 4"
 
 msgid "Random Monsters 4"
-msgstr ""
+msgstr "Sattumanvaraisia Hirviöitä 4"
 
 msgid "Double shot"
 msgstr ""
