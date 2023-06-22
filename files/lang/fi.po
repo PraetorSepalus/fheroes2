@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: fheroes2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-03 06:46+0000\n"
-"PO-Revision-Date: 2023-06-22 09:21+0300\n"
+"PO-Revision-Date: 2023-06-22 13:08+0300\n"
 "Last-Translator: fheroes2 team <fhomm2@gmail.com>\n"
 "Language-Team: Finnish <>\n"
 "Language: fi\n"
@@ -76,7 +76,7 @@ msgid "NO"
 msgstr "EI"
 
 msgid "EXIT"
-msgstr "POISTU"
+msgstr "POIS"
 
 msgid "DISMISS"
 msgstr "HÄÄDÄ"
@@ -199,6 +199,7 @@ msgstr "Rakentaja"
 msgid "Explorer"
 msgstr "Tutkimusmatkailija"
 
+#, fuzzy
 msgid "None"
 msgstr "Ei mitään"
 
@@ -216,14 +217,14 @@ msgid ""
 "A few\n"
 "%{monster}"
 msgstr ""
-"Muutama\n"
+"Muutamia\n"
 "%{monster}"
 
 msgid ""
 "Several\n"
 "%{monster}"
 msgstr ""
-"Usea\n"
+"Useita\n"
 "%{monster}"
 
 msgid ""
@@ -276,10 +277,10 @@ msgstr ""
 "%{monster}"
 
 msgid "army|Few"
-msgstr "army|Muutama"
+msgstr "army|Muutamia"
 
 msgid "army|Several"
-msgstr "army|Usea"
+msgstr "army|Useita"
 
 msgid "army|Pack"
 msgstr "army|Joukko"
@@ -305,10 +306,10 @@ msgstr "army|Legioona"
 msgid "All %{race} troops +1"
 msgstr "Kaikki %{race} joukot +1"
 
+# Not sure about context
 msgid "Multiple"
 msgstr "Usea"
 
-#, fuzzy
 msgid "Troops of %{count} alignments -%{penalty}"
 msgstr "Joukkoja %{count} suuntauksesta -%{penalty}"
 
@@ -328,9 +329,8 @@ msgid "Combine %{name} armies"
 msgstr "Yhdistä %{name}armeijat"
 
 # Needs genetive plural to translate correctly
-#, fuzzy
 msgid "Exchange %{name2} with %{name}"
-msgstr "Vaihda %{name2} ja %{name} "
+msgstr "Vaihda %{name2} ja %{name}"
 
 msgid "Select %{name}"
 msgstr "Valitse %{name}"
@@ -342,7 +342,7 @@ msgid "Move the %{name}"
 msgstr "Siirrä %{name}"
 
 msgid "Set Count"
-msgstr "Valitse Määrä"
+msgstr "Aseta Määrä"
 
 msgid "%{name} destroys half the enemy troops!"
 msgid_plural "%{name} destroy half the enemy troops!"
@@ -622,7 +622,7 @@ msgstr ""
 "%{name} kullan hintaan.\""
 
 msgid "View %{monster} info"
-msgstr "Katso yksikön %{monster} tiedot"
+msgstr "Tarkastele %{monster}"
 
 # nominative case "lennätä monsterit" or adessive "lennä monstereilla" would be more appropriate.
 msgid "Fly %{monster} here"
@@ -653,7 +653,7 @@ msgid "Invalid teleport destination"
 msgstr "Ei sopiva telesiirtymisen kohde"
 
 msgid "Cast %{spell} on %{monster}"
-msgstr "Loitsi %{spell} yksikköön %{monster}"
+msgstr "Heitä %{monster} loitsulla %{spell}"
 
 msgid "Cast %{spell}"
 msgstr "Loitsi %{spell}"
@@ -7043,16 +7043,17 @@ msgid "Rangers"
 msgstr "Samoojia"
 
 msgid "Pikeman"
-msgstr "Seiväsmies"
+msgstr "Peitsimies"
 
 msgid "Pikemen"
-msgstr "Seiväsmiehiä"
+msgstr "Peitsimiehiä"
 
+# Peitsimies Veteraani? Veteraani Peitsimies? Peitsimies Konkari...?
 msgid "Veteran Pikeman"
-msgstr "Veteraani Seiväsmies"
+msgstr "Peitsimies Veteraani"
 
 msgid "Veteran Pikemen"
-msgstr "Veteraani Seiväsmiehiä"
+msgstr "Peitsimies Veteraaneja"
 
 msgid "Swordsman"
 msgstr "MIekkamies"
@@ -7061,10 +7062,10 @@ msgid "Swordsmen"
 msgstr "Miekkamiehiä"
 
 msgid "Master Swordsman"
-msgstr "Veteraani Miekkamies"
+msgstr "Miekkamies Veteraani"
 
 msgid "Master Swordsmen"
-msgstr "Veteraani Miekkamiehiä"
+msgstr "Miekkamies Veteraaneja"
 
 msgid "Cavalries"
 msgstr "Ratsumies"
@@ -7072,6 +7073,7 @@ msgstr "Ratsumies"
 msgid "Cavalry"
 msgstr "Ratsumiehiä"
 
+# Can't really be "taistelija" or "defender" unless it's something like "kuninkaan taistelija" (king's champion). Mestari does not sound good.
 msgid "Champion"
 msgstr "Mestari"
 
@@ -7082,7 +7084,7 @@ msgid "Paladin"
 msgstr "Temppeliritari"
 
 msgid "Paladins"
-msgstr "Temppeliritareja"
+msgstr "Temppeliritareita"
 
 msgid "Crusader"
 msgstr "Ristiretkeläinen"
@@ -7139,10 +7141,10 @@ msgid "War Trolls"
 msgstr "Sotapeikkoja"
 
 msgid "Cyclopes"
-msgstr "Kyklooppi"
+msgstr "Kyklooppeja"
 
 msgid "Cyclops"
-msgstr "Kyklooppeja"
+msgstr "Kyklooppi"
 
 msgid "Sprite"
 msgstr "Keijukainen"
@@ -7220,61 +7222,61 @@ msgid "Minotaur"
 msgstr "Minotauros"
 
 msgid "Minotaurs"
-msgstr "Minotaurokset"
+msgstr "Minotauroksia"
 
 msgid "Minotaur King"
 msgstr "Minotauros Kuningas"
 
 msgid "Minotaur Kings"
-msgstr "Minotauros Kuninkaat"
+msgstr "Minotauros Kuninkaita"
 
 msgid "Hydra"
 msgstr "Hydra"
 
 msgid "Hydras"
-msgstr "Hydrat"
+msgstr "Hydroja"
 
 msgid "Green Dragon"
 msgstr "Vihreä Lohikäärme"
 
 msgid "Green Dragons"
-msgstr "Vihreät Lohikäärmeet"
+msgstr "Vihreitä Lohikäärmeitä"
 
 msgid "Red Dragon"
 msgstr "Punainen Lohikäärme"
 
 msgid "Red Dragons"
-msgstr "Punaiset Lohikäärmeet"
+msgstr "Punaisia Lohikäärmeitä"
 
 msgid "Black Dragon"
 msgstr "Musta Lohikäärme"
 
 msgid "Black Dragons"
-msgstr "Mustat Lohikäärmeet"
+msgstr "Mustia Lohikäärmeitä"
 
 msgid "Halfling"
 msgstr "Puolituinen"
 
 msgid "Halflings"
-msgstr "Puolituiset"
+msgstr "Puolituisia"
 
 msgid "Boar"
-msgstr "Villisika"
+msgstr "Villisi"
 
 msgid "Boars"
-msgstr "Villisiat"
+msgstr "Villisikoja"
 
 msgid "Iron Golem"
 msgstr "Rautagolem"
 
 msgid "Iron Golems"
-msgstr "Rautagolemit"
+msgstr "Rautagolemeita"
 
 msgid "Steel Golem"
 msgstr "Teräsgolem"
 
 msgid "Steel Golems"
-msgstr "Teräsgolemit"
+msgstr "Teräsgolemeita"
 
 msgid "Roc"
 msgstr "Rok-lintu"
@@ -7292,7 +7294,7 @@ msgid "Archmage"
 msgstr "Arkkimaagi"
 
 msgid "Archmagi"
-msgstr "Arkkimaagi"
+msgstr "Arkkimaageja"
 
 msgid "Giant"
 msgstr "Jättiläinen"
@@ -7345,6 +7347,7 @@ msgstr "Vampyyriylimys"
 msgid "Vampire Lords"
 msgstr "Vampyyriylimyksiä"
 
+# No translation that I can think of
 msgid "Lich"
 msgstr "Lich"
 
@@ -7397,25 +7400,25 @@ msgid "Earth Elemental"
 msgstr "Maaelementaali"
 
 msgid "Earth Elementals"
-msgstr "Maaelementaalija"
+msgstr "Maaelementaaleja"
 
 msgid "Air Elemental"
 msgstr "Ilmaelementaali"
 
 msgid "Air Elementals"
-msgstr "Ilmaelementaalija"
+msgstr "Ilmaelementaaleja"
 
 msgid "Fire Elemental"
 msgstr "Tulielementaali"
 
 msgid "Fire Elementals"
-msgstr "Tulielementaalija"
+msgstr "Tulielementaaleja"
 
 msgid "Water Elemental"
 msgstr "Vesielementaali"
 
 msgid "Water Elementals"
-msgstr "Vesielementaalija"
+msgstr "Vesielementaaleja"
 
 msgid "Random Monsters"
 msgstr "Sattumanvaraisia Hirviöitä"
