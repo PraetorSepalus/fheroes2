@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: fheroes2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-03 06:46+0000\n"
-"PO-Revision-Date: 2023-06-27 08:46+0300\n"
+"PO-Revision-Date: 2023-06-30 13:14+0300\n"
 "Last-Translator: fheroes2 team <fhomm2@gmail.com>\n"
 "Language-Team: Finnish <>\n"
 "Language: fi\n"
@@ -668,187 +668,190 @@ msgid "Ballista"
 msgstr "Ballista"
 
 msgid "Enable auto combat"
-msgstr ""
+msgstr "Salli automaattinen taistelu"
 
 msgid "Allows the computer to fight out the battle for you."
-msgstr ""
+msgstr "Antaa tietokoneen taistella puolestasti."
 
 msgid "Auto Combat"
-msgstr ""
+msgstr "Automaattinen Taistelu"
 
 msgid "Customize system options"
-msgstr ""
+msgstr "Säädä järjestelmäasetuksia"
 
 msgid "Allows you to customize the combat screen."
-msgstr ""
+msgstr "Antaa sinun säätää taistelunäkymää."
 
 msgid "System Options"
-msgstr ""
+msgstr "Järjestelmäasetukset"
 
 msgid "Skip this unit"
-msgstr ""
+msgstr "Ohita tämä yksikkö"
 
 msgid "Skip"
-msgstr ""
+msgstr "Ohita"
 
 msgid ""
 "Skips the current creature. The current creature ends its turn and does not "
 "get to go again until the next round."
 msgstr ""
+"Ohittaa tämänhetkisen yksikön. Se päättää vuoronsa eikä voi toimia kuin "
+"vasta ensi kierroksella."
 
 msgid "View Captain's options"
-msgstr ""
+msgstr "Tarkastele Kapteenin valikkoa"
 
 msgid "View Hero's options"
-msgstr ""
+msgstr "Tarkastele Sankarin valikkoa"
 
 msgid "View opposing Captain"
-msgstr ""
+msgstr "Tarkastele vastustajan Kapteenia"
 
 msgid "View opposing Hero"
-msgstr ""
+msgstr "Tarkastele vastustajan Sankaria"
 
 msgid "Hide logs"
-msgstr ""
+msgstr "Piilota lokit"
 
 msgid "Show logs"
-msgstr ""
+msgstr "Näytä lokit"
 
 msgid "Message Bar"
-msgstr ""
+msgstr "Viestikenttä"
 
 msgid "Shows the results of individual monster's actions."
-msgstr ""
+msgstr "Näyttää yksittäisen hirviön toimien tulokset."
 
 msgid "Are you sure you want to finish the battle in auto mode?"
-msgstr ""
+msgstr "Oletko varma, että haluat päättää taistelun automaattisesti?"
 
 msgid "%{name} skip their turn."
-msgstr ""
+msgstr "%{name} ohittaa vuoronsa."
 
 msgid "%{attacker} does %{damage} damage."
 msgid_plural "%{attacker} do %{damage} damage."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%{attacker} tekee %{damage} vahinkoa."
+msgstr[1] "Yksikkö %{attacker} tekee %{damage} vahinkoa."
 
 msgid "1 creature perishes."
 msgid_plural "%{count} creatures perish."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 olento kuolee."
+msgstr[1] "%{count} olentoa kuolee."
 
 msgid "1 %{defender} perishes."
 msgid_plural "%{count} %{defender} perish."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 %{defender} kuolee."
+msgstr[1] "%{count} yksikköä %{defender} kuolee."
 
 msgid "1 soul is incorporated."
 msgid_plural "%{count} souls are incorporated."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 sielu sulautetaan."
+msgstr[1] "%{count} sielua sulautetaan."
 
 msgid "1 %{unit} is revived."
 msgid_plural "%{count} %{unit} are revived."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 %{unit} herätetään henkiin."
+msgstr[1] "%{count} yksilöä %{unit} herätetään henkiin."
 
 msgid "Moved %{monster}: from [%{src}] to [%{dst}]."
-msgstr ""
+msgstr "Liikutettiin %{monster} pisteestä [%{src}] pisteeseen [%{dst}]."
 
 msgid "The %{name} resist the spell!"
-msgstr ""
+msgstr "Yksikkö %{name} vastustaa taikaa!"
 
 msgid "%{name} casts %{spell} on the %{troop}."
-msgstr ""
+msgstr "%{name} loitsii taian %{spell} yksikköön %{troop}."
 
 msgid "%{name} casts %{spell}."
-msgstr ""
+msgstr "%{name} loitsii taian %{spell}."
 
 msgid "The %{spell} does %{damage} damage to one undead creature."
-msgstr ""
+msgstr "%{spell} tekee %{damage} vahinkoa yhteen epäkuolleeseen olentoon."
 
 msgid "The %{spell} does %{damage} damage to all undead creatures."
-msgstr ""
+msgstr "%{spell} tekee %{damage} vahinkoa kaikkiin epäkuolleisiin olentoihin."
 
 msgid "The %{spell} does %{damage} damage, %{count} creatures perish."
-msgstr ""
+msgstr "%{spell} tekee %{damage} vahinkoa, %{count} olentoa kuolee."
 
 msgid "The %{spell} does %{damage} damage."
-msgstr ""
+msgstr "%{spell} tekee %{damage} vahinkoa."
 
 msgid "The %{spell} does %{damage} damage to one living creature."
-msgstr ""
+msgstr "%{spell} tekee %{damage} vahinkoa yhteen elävään olentoon."
 
 msgid "The %{spell} does %{damage} damage to all living creatures."
-msgstr ""
+msgstr "%{spell} tekee %{damage} vahinkoa kaikkiin eläviin olentoihin."
 
 msgid "The %{attacker}' attack blinds the %{target}!"
-msgstr ""
+msgstr "Yksikkö %{attacker} %{target} sokeuttaa ne!"
 
 msgid "The %{attacker}' gaze turns the %{target} to stone!"
-msgstr ""
+msgstr "Yksikkö %{attacker} kivettää yksikön %{target} katseellaan!"
 
 msgid "The %{attacker}' curse falls upon the %{target}!"
-msgstr ""
+msgstr "Yksikkö %{attacker} langettaa kirouksen yksikön %{target} ylle!"
 
 msgid "The %{target} are paralyzed by the %{attacker}!"
-msgstr ""
+msgstr "Yksikkö %{target} on yksikön %{attacker} iskun lamaannuttamia!"
 
 msgid "The %{attacker} dispel all good spells on your %{target}!"
 msgstr ""
+"Yksikkö %{attacker} iskee %{target} ja hälventää siltä kaikki lumoukset!"
 
 msgid "The %{attacker} cast %{spell} on %{target}!"
-msgstr ""
+msgstr "%{attacker} loitsii taian %{spell} yksikköön %{target}!"
 
 msgid "Bad luck descends on the %{attacker}."
-msgstr ""
+msgstr "Huono onni kiusaa %{attacker}."
 
 msgid "Good luck shines on the %{attacker}."
-msgstr ""
+msgstr "Onni suosii %{attacker}."
 
 msgid "High morale enables the %{monster} to attack again."
-msgstr ""
+msgstr "Korkea taistelutahto sallii yksikön %{monster} hyökätä uudestaan."
 
 msgid "Low morale causes the %{monster} to freeze in panic."
-msgstr ""
+msgstr "Alhainen taistelutahto saa yksikön %{monster} menemään paniikkiin."
 
 msgid "%{tower} does %{damage} damage."
-msgstr ""
+msgstr "%{tower} aiheuttaa %{damage} vahinkoa."
 
 msgid "The mirror image is created."
-msgstr ""
+msgstr "Peilikuva luotu."
 
 msgid "The mirror image is destroyed!"
-msgstr ""
+msgstr "Peilikuva on tuhottu!"
 
 msgid "Are you sure you want to interrupt the auto battle?"
-msgstr ""
+msgstr "Oletko varma, että haluat keskeyttää automaattisen taistelun?"
 
 msgid "Error"
-msgstr ""
+msgstr "Virhe"
 
 msgid "No spells to cast."
-msgstr ""
+msgstr "Ei loitsuja taioittavissa."
 
 msgid "Are you sure you want to retreat?"
-msgstr ""
+msgstr "Oletko varma, että haluat vetäytyä?"
 
 msgid "Retreat disabled"
-msgstr ""
+msgstr "Vetäytyminen estetty"
 
 msgid "Surrender disabled"
-msgstr ""
+msgstr "Antautuminen estetty"
 
 msgid "Damage: %{max}"
-msgstr ""
+msgstr "Vahinko: %{max}"
 
 msgid "Damage: %{min} - %{max}"
-msgstr ""
+msgstr "Vahinko: %{min} - %{max}"
 
 msgid "Perish: %{max}"
-msgstr ""
+msgstr "Kuolee: %{max}"
 
 msgid "Perish: %{min} - %{max}"
-msgstr ""
+msgstr "Kuolee: %{min} - %{max}"
 
 msgid ""
 "Through eagle-eyed observation, %{name} is able to learn the magic spell "
@@ -856,13 +859,13 @@ msgid ""
 msgstr ""
 
 msgid "Human"
-msgstr ""
+msgstr "Ihminen"
 
 msgid "AI"
-msgstr ""
+msgstr "Tekoäly"
 
 msgid "Please select another hero."
-msgstr ""
+msgstr "Valitse toinen sankari."
 
 msgid "Set Attack Skill"
 msgstr ""
@@ -7068,10 +7071,10 @@ msgid "Master Swordsmen"
 msgstr "Miekkamies Konkareita"
 
 msgid "Cavalries"
-msgstr "Ratsumies"
+msgstr "Ratsumiehiä"
 
 msgid "Cavalry"
-msgstr "Ratsumiehiä"
+msgstr "Ratsumies"
 
 # Can't really be "taistelija" or "defender" unless it's something like "kuninkaan taistelija" (king's champion). Mestari does not sound good.
 msgid "Champion"
